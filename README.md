@@ -7,7 +7,7 @@ This repository contains the source code of the paper  Contraction Region Estima
 
 ## [License](https://github.com/rtContraction/SDRE-ROA/LICENSE)
 
-Chair of Automatic Control
+[Chair of Automatic Control](https://www.mw.tum.de)
 
 Department of Mechanical Engineering
 
