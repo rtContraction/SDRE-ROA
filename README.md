@@ -1,6 +1,10 @@
-# Source Code for  the paper 
-This repository contains the source codes of the paper  Contraction Region Estimate for State-Dependent-Ricvatti-Equation-Based Controllers and  its application to a Two-Wheeled Inverted Pendulum
+# MATLAB Source Code 
+This repository contains the source codes of the paper  Contraction Region Estimate for State-dependent Riccati-Equation-Based Controllers and  its application to a Two-wheeled inverted pendulum
 submitted to  IEEE ICM 2021. 
+## Software required
+	MATLAB 2019a or later
+	YALMIP
+	MOSEK
 
 ## [License](https://github.com/rtContraction/SDRE-ROA/LICENSE)
 
