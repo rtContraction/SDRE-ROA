@@ -7,6 +7,10 @@ This repository contains the source code of the paper  Contraction Region Estima
 
 ## [License](https://github.com/rtContraction/SDRE-ROA/LICENSE)
 
+Chair of Automatic Control
+Department of Mechanical Engineering
+Technical University of Munich
+
 Copyright (c) 2020 [Julio Pérez, Susanne Junghans](https://www.mw.tum.de/rt/personen/derzeitige/julio-perez/)
 
 The above copyright notice and this permission notice shall be included in all
